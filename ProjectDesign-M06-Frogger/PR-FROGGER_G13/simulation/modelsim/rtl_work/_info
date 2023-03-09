@@ -1,0 +1,422 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/simulation/modelsim
+vBB_SYSTEM
+Z1 !s110 1621228509
+!i10b 1
+!s100 7X;>WQVQ0bR0IeliSkXnm2
+IeGXjb@@n]SOMNSH[L=gT?2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1620949686
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/BB_SYSTEM.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/BB_SYSTEM.v
+Z3 L0 21
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1621228509.000000
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/BB_SYSTEM.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/BB_SYSTEM.v|
+!i113 1
+Z6 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal
+Z7 tCvgOpt 0
+n@b@b_@s@y@s@t@e@m
+vCC_BOTTOMSIDECOMPARATOR
+Z8 !s110 1621228507
+!i10b 1
+!s100 MjU1Yn;iTX94@TFOlJ7]X3
+IOj8HDb0aTXeBJ<k57kb9]1
+R2
+R0
+w1620376354
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_BOTTOMSIDECOMPARATOR.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_BOTTOMSIDECOMPARATOR.v
+R3
+R4
+r1
+!s85 0
+31
+Z9 !s108 1621228507.000000
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_BOTTOMSIDECOMPARATOR.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_BOTTOMSIDECOMPARATOR.v|
+!i113 1
+R6
+Z10 !s92 -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl
+R7
+n@c@c_@b@o@t@t@o@m@s@i@d@e@c@o@m@p@a@r@a@t@o@r
+vCC_COLLISIONCOMPARATOR
+R8
+!i10b 1
+!s100 i0>EMGEP7_IjfloRfMPgW3
+IRiem7KTJ6AKeWbjdfb<zR3
+R2
+R0
+w1620378559
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_COLLISIONCOMPARATOR.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_COLLISIONCOMPARATOR.v
+L0 4
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_COLLISIONCOMPARATOR.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_COLLISIONCOMPARATOR.v|
+!i113 1
+R6
+R10
+R7
+n@c@c_@c@o@l@l@i@s@i@o@n@c@o@m@p@a@r@a@t@o@r
+vCC_ENTRYCOMPARATOR
+R8
+!i10b 1
+!s100 ]a>hF3=f7_1[a]@T[I@=h3
+I2mIUeYKlgQ5J?Z=7g^^I93
+R2
+R0
+w1621002827
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_ENTRYCOMPARATOR.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_ENTRYCOMPARATOR.v
+L0 4
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_ENTRYCOMPARATOR.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_ENTRYCOMPARATOR.v|
+!i113 1
+R6
+R10
+R7
+n@c@c_@e@n@t@r@y@c@o@m@p@a@r@a@t@o@r
+vCC_SPEEDCOMPARATOR
+R8
+!i10b 1
+!s100 6f`L82DOQPL]I;>nV=c190
+I?:[<<?IhR2>akWlSYj^S31
+R2
+R0
+w1620380902
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_SPEEDCOMPARATOR.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_SPEEDCOMPARATOR.v
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_SPEEDCOMPARATOR.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_SPEEDCOMPARATOR.v|
+!i113 1
+R6
+R10
+R7
+n@c@c_@s@p@e@e@d@c@o@m@p@a@r@a@t@o@r
+vmatrix_ctrl
+Z11 !s110 1621228508
+!i10b 1
+!s100 e8fJ::8FZhBf=Yo62HC<D0
+I]zT?k8`cM`BHn`Eza2MIn2
+R2
+R0
+w1554920989
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/max7219_ctrl.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/max7219_ctrl.v
+L0 18
+R4
+r1
+!s85 0
+31
+Z12 !s108 1621228508.000000
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/max7219_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/max7219_ctrl.v|
+!i113 1
+R6
+R10
+R7
+vSC_DEBOUNCE1
+R1
+!i10b 1
+!s100 R1A>6;z02mNBGFV[E4kge0
+IbNNn[G=eD4]W0X0e?h`D_3
+R2
+R0
+w1550072613
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_DEBOUNCE1.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_DEBOUNCE1.v
+L0 44
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_DEBOUNCE1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_DEBOUNCE1.v|
+!i113 1
+R6
+R10
+R7
+n@s@c_@d@e@b@o@u@n@c@e1
+vSC_RegBACKG
+R11
+!i10b 1
+!s100 jBN8AEPnRO1e1Z7W9g5_[3
+I?1BFf3AMdVLo2e>8>om620
+R2
+R0
+w1620374664
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegBACKG.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegBACKG.v
+R3
+R4
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegBACKG.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegBACKG.v|
+!i113 1
+R6
+R10
+R7
+n@s@c_@reg@b@a@c@k@g
+vSC_RegENTRY
+R8
+!i10b 1
+!s100 h9GaA9O>ORJ1WUHnAO5F22
+ID6N=nR4DDL4YmdXZGPZ8]1
+R2
+R0
+w1620948610
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegENTRY.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegENTRY.v
+L0 4
+R4
+r1
+!s85 0
+31
+!s108 1621228506.000000
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegENTRY.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegENTRY.v|
+!i113 1
+R6
+R10
+R7
+n@s@c_@reg@e@n@t@r@y
+vSC_RegENTRYFROGGER
+R8
+!i10b 1
+!s100 ci0`0NP]RgNn6FzVXI:em0
+IbkL>Jn`TV822D:40gF=fE2
+R2
+R0
+w1621002578
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegENTRYFROGGER.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegENTRYFROGGER.v
+L0 4
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegENTRYFROGGER.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegENTRYFROGGER.v|
+!i113 1
+R6
+R10
+R7
+n@s@c_@reg@e@n@t@r@y@f@r@o@g@g@e@r
+vSC_RegFROGGER
+R11
+!i10b 1
+!s100 @61Pl06SY9jkng_a_A]cN1
+I^o^ckg@BfOCZK7Rh=Bc1H3
+R2
+R0
+w1620374662
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegFROGGER.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegFROGGER.v
+R3
+R4
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegFROGGER.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegFROGGER.v|
+!i113 1
+R6
+R10
+R7
+n@s@c_@reg@f@r@o@g@g@e@r
+vSC_RegLEVEL
+R8
+!i10b 1
+!s100 bQW=DA9l3E7ehS>ORzn9V1
+I:PI^U4j:LTS=BN?B4ZWP40
+R2
+R0
+w1620949727
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegLEVEL.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegLEVEL.v
+L0 4
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegLEVEL.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegLEVEL.v|
+!i113 1
+R6
+R10
+R7
+n@s@c_@reg@l@e@v@e@l
+vSC_RegLIVES
+R8
+!i10b 1
+!s100 _TSVB9:`bkISYNgkG[1ba1
+IMV3Qg4>m60b]YShd=3Jb61
+R2
+R0
+w1620949758
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegLIVES.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegLIVES.v
+L0 4
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegLIVES.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegLIVES.v|
+!i113 1
+R6
+R10
+R7
+n@s@c_@reg@l@i@v@e@s
+vSC_STATEMACHINEBACKG
+R11
+!i10b 1
+!s100 4NQKmd=KC:W`6J48gVHbL0
+I?AKz[9@2W7QRFUN;YM>Li3
+R2
+R0
+w1621002858
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_STATEMACHINEBACKG.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_STATEMACHINEBACKG.v
+R3
+R4
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_STATEMACHINEBACKG.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_STATEMACHINEBACKG.v|
+!i113 1
+R6
+R10
+R7
+n@s@c_@s@t@a@t@e@m@a@c@h@i@n@e@b@a@c@k@g
+vSC_STATEMACHINEFROGGER
+R11
+!i10b 1
+!s100 Ji9FPaWYDgD<^35U8`<2f0
+I:C0S414P?me[L4G57>ff_3
+R2
+R0
+w1620874745
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_STATEMACHINEFROGGER.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_STATEMACHINEFROGGER.v
+R3
+R4
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_STATEMACHINEFROGGER.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_STATEMACHINEFROGGER.v|
+!i113 1
+R6
+R10
+R7
+n@s@c_@s@t@a@t@e@m@a@c@h@i@n@e@f@r@o@g@g@e@r
+vSC_upSPEEDCOUNTER
+R11
+!i10b 1
+!s100 JeazHozgenC_Xd1SzA;B?1
+I0E@[0=W5O8YmSFX41X7c;2
+R2
+R0
+w1620365221
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_upSPEEDCOUNTER.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_upSPEEDCOUNTER.v
+R3
+R4
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_upSPEEDCOUNTER.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_upSPEEDCOUNTER.v|
+!i113 1
+R6
+R10
+R7
+n@s@c_up@s@p@e@e@d@c@o@u@n@t@e@r
+vshift_reg_start_done
+R11
+!i10b 1
+!s100 P[k=OFn:ZJUAdXXFS>kmX1
+IP1h9MoQBM<KW`efiCa;>I2
+R2
+R0
+w1554920993
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/shift_reg_start_done.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/shift_reg_start_done.v
+L0 34
+R4
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/shift_reg_start_done.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/shift_reg_start_done.v|
+!i113 1
+R6
+R10
+R7
+vTB_SYSTEM
+R1
+!i10b 1
+!s100 8WSfJCT9^2>T]12[cP6l52
+InE`VNL]BIR8d?Akz>QRd?0
+R2
+R0
+w1621011297
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/simulation/modelsim/TB_SYSTEM.vt
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/simulation/modelsim/TB_SYSTEM.vt
+L0 19
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/simulation/modelsim/TB_SYSTEM.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/simulation/modelsim|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/simulation/modelsim/TB_SYSTEM.vt|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/simulation/modelsim
+R7
+n@t@b_@s@y@s@t@e@m

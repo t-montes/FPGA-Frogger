@@ -1,0 +1,227 @@
+# Reading C:/intelFPGA_lite/19.1/modelsim_ase/tcl/vsim/pref.tcl
+# do BB_SYSTEM_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/19.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegENTRY.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:06 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegENTRY.v 
+# -- Compiling module SC_RegENTRY
+# 
+# Top level modules:
+# 	SC_RegENTRY
+# End time: 00:15:07 on May 17,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegLEVEL.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:07 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegLEVEL.v 
+# -- Compiling module SC_RegLEVEL
+# 
+# Top level modules:
+# 	SC_RegLEVEL
+# End time: 00:15:07 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegLIVES.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:07 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegLIVES.v 
+# -- Compiling module SC_RegLIVES
+# 
+# Top level modules:
+# 	SC_RegLIVES
+# End time: 00:15:07 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_COLLISIONCOMPARATOR.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:07 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_COLLISIONCOMPARATOR.v 
+# -- Compiling module CC_COLLISIONCOMPARATOR
+# 
+# Top level modules:
+# 	CC_COLLISIONCOMPARATOR
+# End time: 00:15:07 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_ENTRYCOMPARATOR.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:07 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_ENTRYCOMPARATOR.v 
+# -- Compiling module CC_ENTRYCOMPARATOR
+# 
+# Top level modules:
+# 	CC_ENTRYCOMPARATOR
+# End time: 00:15:07 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_BOTTOMSIDECOMPARATOR.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:07 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_BOTTOMSIDECOMPARATOR.v 
+# -- Compiling module CC_BOTTOMSIDECOMPARATOR
+# 
+# Top level modules:
+# 	CC_BOTTOMSIDECOMPARATOR
+# End time: 00:15:07 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegENTRYFROGGER.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:07 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegENTRYFROGGER.v 
+# -- Compiling module SC_RegENTRYFROGGER
+# 
+# Top level modules:
+# 	SC_RegENTRYFROGGER
+# End time: 00:15:07 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_SPEEDCOMPARATOR.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:07 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/CC_SPEEDCOMPARATOR.v 
+# -- Compiling module CC_SPEEDCOMPARATOR
+# 
+# Top level modules:
+# 	CC_SPEEDCOMPARATOR
+# End time: 00:15:07 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_upSPEEDCOUNTER.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:08 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_upSPEEDCOUNTER.v 
+# -- Compiling module SC_upSPEEDCOUNTER
+# 
+# Top level modules:
+# 	SC_upSPEEDCOUNTER
+# End time: 00:15:08 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegBACKG.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:08 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegBACKG.v 
+# -- Compiling module SC_RegBACKG
+# 
+# Top level modules:
+# 	SC_RegBACKG
+# End time: 00:15:08 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_STATEMACHINEBACKG.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:08 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_STATEMACHINEBACKG.v 
+# -- Compiling module SC_STATEMACHINEBACKG
+# 
+# Top level modules:
+# 	SC_STATEMACHINEBACKG
+# End time: 00:15:08 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegFROGGER.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:08 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_RegFROGGER.v 
+# -- Compiling module SC_RegFROGGER
+# 
+# Top level modules:
+# 	SC_RegFROGGER
+# End time: 00:15:08 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_STATEMACHINEFROGGER.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:08 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_STATEMACHINEFROGGER.v 
+# -- Compiling module SC_STATEMACHINEFROGGER
+# 
+# Top level modules:
+# 	SC_STATEMACHINEFROGGER
+# End time: 00:15:08 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/shift_reg_start_done.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:08 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/shift_reg_start_done.v 
+# -- Compiling module shift_reg_start_done
+# 
+# Top level modules:
+# 	shift_reg_start_done
+# End time: 00:15:08 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/max7219_ctrl.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:08 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/max7219_ctrl.v 
+# -- Compiling module matrix_ctrl
+# 
+# Top level modules:
+# 	matrix_ctrl
+# End time: 00:15:08 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_DEBOUNCE1.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:09 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_DEBOUNCE1.v 
+# -- Compiling module SC_DEBOUNCE1
+# 
+# Top level modules:
+# 	SC_DEBOUNCE1
+# End time: 00:15:09 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/BB_SYSTEM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:09 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/BB_SYSTEM.v 
+# -- Compiling module BB_SYSTEM
+# 
+# Top level modules:
+# 	BB_SYSTEM
+# End time: 00:15:09 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/simulation/modelsim {C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/simulation/modelsim/TB_SYSTEM.vt}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 00:15:09 on May 17,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/simulation/modelsim" C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/simulation/modelsim/TB_SYSTEM.vt 
+# -- Compiling module TB_SYSTEM
+# 
+# Top level modules:
+# 	TB_SYSTEM
+# End time: 00:15:09 on May 17,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  TB_SYSTEM
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" TB_SYSTEM 
+# Start time: 00:15:11 on May 17,2021
+# Loading work.TB_SYSTEM
+# Loading work.BB_SYSTEM
+# Loading work.SC_DEBOUNCE1
+# Loading work.SC_STATEMACHINEFROGGER
+# Loading work.SC_RegFROGGER
+# Loading work.SC_RegENTRYFROGGER
+# Loading work.SC_STATEMACHINEBACKG
+# Loading work.SC_RegBACKG
+# Loading work.CC_ENTRYCOMPARATOR
+# Loading work.CC_COLLISIONCOMPARATOR
+# Loading work.CC_BOTTOMSIDECOMPARATOR
+# Loading work.SC_RegENTRY
+# Loading work.SC_RegLEVEL
+# Loading work.SC_RegLIVES
+# Loading work.SC_upSPEEDCOUNTER
+# Loading work.CC_SPEEDCOMPARATOR
+# Loading work.matrix_ctrl
+# Loading work.shift_reg_start_done
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# Running testbench
+# Break key hit
+# Break in Module SC_STATEMACHINEBACKG at C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/PR-FROGGER_G13_FuncionalidadTotal/rtl/SC_STATEMACHINEBACKG.v line 129
+# End time: 10:06:09 on May 17,2021, Elapsed time: 9:50:58
+# Errors: 0, Warnings: 0

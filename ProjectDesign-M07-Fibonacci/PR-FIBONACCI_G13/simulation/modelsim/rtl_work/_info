@@ -1,0 +1,240 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/simulation/modelsim
+vBB_SYSTEM
+Z1 !s110 1621618248
+!i10b 1
+!s100 ajCeTI4fTWl3_D7EW^o3Z0
+IU[G>3gB82hH`W?[X=zDkm0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1621569523
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/BB_SYSTEM.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/BB_SYSTEM.v
+Z3 L0 21
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1621618248.000000
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/BB_SYSTEM.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/BB_SYSTEM.v|
+!i113 1
+Z6 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH
+Z7 tCvgOpt 0
+n@b@b_@s@y@s@t@e@m
+vCC_ALU
+Z8 !s110 1621618247
+!i10b 1
+!s100 4hk2A<D6EH[WSFJ1<Nof13
+I]f@C0>V=LGSH_k<=@_S2W2
+R2
+R0
+w1550264282
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/CC_ALU.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/CC_ALU.v
+R3
+R4
+r1
+!s85 0
+31
+Z9 !s108 1621618247.000000
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/CC_ALU.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/CC_ALU.v|
+!i113 1
+R6
+Z10 !s92 -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl
+R7
+n@c@c_@a@l@u
+vCC_DECODER
+R8
+!i10b 1
+!s100 ^hJ8XJ;bm^MkRk]TRY]bC2
+I[bI[@I;XBjL`Ml4PQ^MnZ3
+R2
+R0
+w1550264192
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/CC_DECODER.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/CC_DECODER.v
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/CC_DECODER.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/CC_DECODER.v|
+!i113 1
+R6
+R10
+R7
+n@c@c_@d@e@c@o@d@e@r
+vCC_MUXX
+!s110 1621618246
+!i10b 1
+!s100 WGWVM]@C8RWPSG:jRA8lK3
+Ik]mHVQRC;nH>^hhfgQb8b0
+R2
+R0
+w1550264134
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/CC_MUXX.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/CC_MUXX.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1621618245.000000
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/CC_MUXX.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/CC_MUXX.v|
+!i113 1
+R6
+R10
+R7
+n@c@c_@m@u@x@x
+vSC_RegFIXED
+Z11 !s110 1621618243
+!i10b 1
+!s100 9JNkV<l`<O2]FF>>@?]RA2
+I6MhIcMV2D90WD>cIb<<:e0
+R2
+R0
+Z12 w1550072672
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/SC_RegFIXED.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/SC_RegFIXED.v
+R3
+R4
+r1
+!s85 0
+31
+Z13 !s108 1621618243.000000
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/SC_RegFIXED.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/SC_RegFIXED.v|
+!i113 1
+R6
+R10
+R7
+n@s@c_@reg@f@i@x@e@d
+vSC_RegGENERAL
+R11
+!i10b 1
+!s100 [6I<n;cl801V>H:zdW>MP2
+Ioe1jQo;P9j?>W[SPWQES31
+R2
+R0
+R12
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/SC_RegGENERAL.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/SC_RegGENERAL.v
+R3
+R4
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/SC_RegGENERAL.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/SC_RegGENERAL.v|
+!i113 1
+R6
+R10
+R7
+n@s@c_@reg@g@e@n@e@r@a@l
+vSC_RegSHIFTER
+R11
+!i10b 1
+!s100 [Snl8_FOYflac^l7IIP431
+IMXRX5=HA;`bkzKXlMRY`Y0
+R2
+R0
+w1550276554
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/SC_RegSHIFTER.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/SC_RegSHIFTER.v
+R3
+R4
+r1
+!s85 0
+31
+Z14 !s108 1621618242.000000
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/SC_RegSHIFTER.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/SC_RegSHIFTER.v|
+!i113 1
+R6
+R10
+R7
+n@s@c_@reg@s@h@i@f@t@e@r
+vSC_STATEMACHINE
+!s110 1621618242
+!i10b 1
+!s100 J`[`LU[CHbnhN8TiFPi<>2
+IFD]Xh0a0X@PNZ5j@BBhMo1
+R2
+R0
+w1621618099
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/SC_STATEMACHINE.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/SC_STATEMACHINE.v
+L0 37
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/SC_STATEMACHINE.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/SC_STATEMACHINE.v|
+!i113 1
+R6
+R10
+R7
+n@s@c_@s@t@a@t@e@m@a@c@h@i@n@e
+vTB_SYSTEM
+R1
+!i10b 1
+!s100 ZN]WCd=K<KjB]gABAAlhK3
+ID6>Mi<GUBIR1IiZ?n7[:U3
+R2
+R0
+w1550068182
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/simulation/modelsim/TB_SYSTEM.vt
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/simulation/modelsim/TB_SYSTEM.vt
+L0 19
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/simulation/modelsim/TB_SYSTEM.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/simulation/modelsim|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/simulation/modelsim/TB_SYSTEM.vt|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/simulation/modelsim
+R7
+n@t@b_@s@y@s@t@e@m
+vuDATAPATH
+!s110 1621618241
+!i10b 1
+!s100 OU9L0QI_LMXkNcK2ShHNC2
+IacdoA?h`2G6PU?[Hl9NXS3
+R2
+R0
+w1621569512
+8C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/uDATAPATH.v
+FC:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/uDATAPATH.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1621618241.000000
+!s107 C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/uDATAPATH.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl|C:/Users/santi/OneDrive/Escritorio/carpetaPruebaSED/2010-PRJ0_uDATAPATH/rtl/uDATAPATH.v|
+!i113 1
+R6
+R10
+R7
+nu@d@a@t@a@p@a@t@h

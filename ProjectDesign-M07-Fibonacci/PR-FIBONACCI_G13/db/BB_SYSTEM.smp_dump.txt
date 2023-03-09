@@ -1,0 +1,22 @@
+
+State Machine - |BB_SYSTEM|SC_STATEMACHINE:SC_STATEMACHINE_u0|State_Register
+Name State_Register.State_END_0 State_Register.State_RESULT_0 State_Register.State_MOVReg3to1_2 State_Register.State_MOVReg3to1_1 State_Register.State_MOVReg3to1_0 State_Register.State_MOVReg1to0_2 State_Register.State_MOVReg1to0_1 State_Register.State_MOVReg1to0_0 State_Register.State_SUM_2 State_Register.State_SUM_1 State_Register.State_SUM_0 State_Register.State_MOVFIXED1_2 State_Register.State_MOVFIXED1_1 State_Register.State_MOVFIXED1_0 State_Register.State_MOVFIXED0_2 State_Register.State_MOVFIXED0_1 State_Register.State_MOVFIXED0_0 State_Register.State_START_0 State_Register.State_RESET_0 
+State_Register.State_RESET_0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+State_Register.State_START_0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+State_Register.State_MOVFIXED0_0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+State_Register.State_MOVFIXED0_1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+State_Register.State_MOVFIXED0_2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+State_Register.State_MOVFIXED1_0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+State_Register.State_MOVFIXED1_1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+State_Register.State_MOVFIXED1_2 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+State_Register.State_SUM_0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+State_Register.State_SUM_1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+State_Register.State_SUM_2 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+State_Register.State_MOVReg1to0_0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+State_Register.State_MOVReg1to0_1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+State_Register.State_MOVReg1to0_2 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+State_Register.State_MOVReg3to1_0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+State_Register.State_MOVReg3to1_1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+State_Register.State_MOVReg3to1_2 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+State_Register.State_RESULT_0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+State_Register.State_END_0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 

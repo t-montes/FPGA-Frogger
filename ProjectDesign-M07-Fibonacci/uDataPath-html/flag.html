@@ -1,0 +1,302 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+
+    <link href="https://use.fontawesome.com/releases/v5.0.1/css/all.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/animate.css">
+
+    <link rel="stylesheet" type="text/css" href="css/animations.css" />
+
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <link rel="stylesheet" type="text/css" href="css/slick.min.css" />
+
+    <link rel="stylesheet" href="css/styles.css">
+
+    <script src="js/modernizr.custom.js"></script>
+
+    <title>Circuitos electrónicos</title>
+</head>
+
+<body>
+
+    <!--<div class="loader-wrapper">
+         <img src="img/logotipo.png" class="logotipo-loader" />
+        <img src="img/isotipo.png" class="isotipo-loader" /> 
+        <div class="loader"></div>
+    </div>-->
+
+    <div class="site-overlay"></div>
+
+    <div class="toolbar">
+        <div class="toolbar-buttons">
+            <!-- <div class="toolbar-group">
+                <div class="toolbar-button first-container to_path" data-path="home">
+                    <a class="text-toolbar">START</a>
+                    <div class="toolbar-label">Inicialización</div>
+                </div>
+                <div class="toolbar-button to_path" data-path="home">
+                    <a class="text-toolbar">MOV</a>
+                    <div class="toolbar-label">Movimiento de datos</div>
+                </div>
+            </div> -->
+
+            <!--
+                En el siguiente contenerdo se definen los botones del menu
+            -->
+            <div class="toolbar-group">
+                <div class="toolbar-button first-container to_path" data-path="home">
+                    <a href="index.html" class="fas fa-home"></a>
+                    <div class="toolbar-label">Inicio</div>
+                </div>
+                <div id="prev-step" class="toolbar-button disabled">
+                    <a class="fas fa-arrow-circle-left"></a>
+                    <div class="toolbar-label">Atrás</div>
+                </div>
+                <div id="next-step" class="toolbar-button">
+                    <a class="fas fa-arrow-circle-right"></a>
+                    <div class="toolbar-label">Siguiente</div>
+                </div>
+                <div class="toolbar-button">
+                    <a href="codigos/PRJ0_uDATAPATH_1.zip" target="_blank" class="fas fa-save"></a>
+                    <div class="toolbar-label">Guardar código</div>
+                </div>
+            </div>
+            <div class="toolbar-group">
+                <div class="toolbar-button first-container">
+                    <a id="zoom-in" class="fas fa-search-plus"></a>
+                    <div class="toolbar-label">Zoom in</div>
+                </div>
+                <div class="toolbar-button">
+                    <a id="zoom-out" class="fas fa-search-minus"></a>
+                    <div class="toolbar-label">Zoom out</div>
+                </div>
+            </div>
+            <div class="toolbar-group">
+                <div class="toolbar-button first-container">
+                    <a href="#info-dialog" class="fas fa-info-circle info-popup"></a>
+                    <div class="toolbar-label">Ayuda</div>
+                </div>
+                <div class="toolbar-button">
+                    <a href="#derechos_autor" class="fas fa-copyright info-popup"></a>
+                    <div class="toolbar-label">Copyright</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <main role="main">
+        <div id="container">
+            <div id="viewport">
+                <div class="map-layer">
+                    <div class="map-wrapper">
+                        <!-- <div class="main-title">
+                            <h2>µDataPath</h2>
+                        </div> -->
+                        <!-- <div class="nav-menu">
+                            <a class="nav-item to_path" data-path="aritmetico">ARITH/LOG</a>
+                            <a class="nav-item to_path" data-path="aritmetico">SHIFT REGISTER</a>
+                            <a class="nav-item to_path" data-path="aritmetico">FLAGS</a>
+                        </div> -->
+
+                         <!--
+                            En el siguiente contenerdo se definen las imagenes que se van a mostrar en la seccion
+                        -->
+                        <div id="home" class="images-container active">
+                            
+                            <div>
+                                <div class="inner-image-wrapper-5">
+                                    <img class="map-image" src="img/flag/1.jpg" />
+                                </div>
+                            </div>
+                            <div>
+                        </div>
+                        <!--    
+                            <div id="aritmetico" class="images-container hide">
+                                <div>
+                                    <div class="inner-image-wrapper-4">
+                                        <img class="map-image" src="img/circuito2_rs.png" />
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="inner-image-wrapper-4">
+                                        <img class="map-image" src="img/circuito2_rs.png" />
+                                    </div>
+                                </div>
+                            </div>
+                        -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </main>
+
+    <!-- Operación Aritmética -->
+
+
+    <!-- Información de ayuda -->
+    <div id="info-dialog" class="zoom-anim-dialog mfp-hide">
+        <h2>Información</h2>
+        <ul class="info-list">
+            <li>
+                <i class="fas fa-arrow-circle-left"></i>
+                <h5>Ver paso anterior</h5>
+            </li>
+            <li>
+                <i class="fas fa-arrow-circle-right"></i>
+                <h5>Ver paso siguiente</h5>
+            </li>
+            <li>
+                <i class="fas fa-save"></i>
+                <h5>Guardar código</h5>
+            </li>
+            <li>
+                <i class="fa fa-copyright"></i>
+                <h5>Derechos de autor</h5>
+            </li>
+            <li>
+                <i class="fa fa-search-plus"></i>
+                <h5>Acercar visualización</h5>
+            </li>
+            <li>
+                <i class="fa fa-search-minus"></i>
+                <h5>Alejar visualización</h5>
+            </li>
+            <li>
+                <img src="img/save-only-icon.png" />
+                <h5>Guardar código sólo de la sección señalada</h5>
+            </li>
+        </ul>
+    </div>
+
+
+    <!-- Derechos de autor -->
+    <div id="derechos_autor" class="zoom-anim-dialog mfp-hide instruccion" style="text-align: center;">
+            
+        <h2>PROYECTO REDINGE2</h2>
+            <h3>Rediseño de cursos de Ingeniería, ciclo 2</h3>
+            <br>
+            <h3>Financiación</h3>
+            <p>Facultad de Ingeniería, Universidad de los Andes.</p> 
+            <p>Departamento de Ingeniería Eléctrica y Electrónica,</p> 
+            <p>Universidad de los Andes</p>
+            <br>
+            <h3>Gestores institucionales</h3>
+            <p>Alfonso Reyes Alvarado, Decano Facultad de Ingeniería</p>
+            <p>Silvia Caro Spinel, Vicedecana académica Facultad de Ingeniería</p>
+            <p>Andrés Felipe Gómez Uribe, Director del Departamento de Ingeniería Eléctrica y Electrónica</p>
+            <p>Luz Adriana Osorio Gómez, Directora Conecta-TE</p>
+            <br>
+            <h3>Liderazgo proyecto REDINGE2</h3>
+            <p>Alvaro Hernán Galvis Panqueva, Director proyecto </p>
+            <p>Angélica Avalo Azcárate, Coordinadora proyecto</p>
+            <br>
+            <h3>Autores</h3>
+            <p>Profesor: Fredy Enrique Segura Quijano</p>
+            <p>Profesor: Carlos Andrés Quintero Peña</p>
+            <br>
+            <h3>Asesores</h3>
+            <p>Asesor Pedagógico: Diana Carolina Cortés Bolívar</p>
+            <p>Asesor Tecnológico: Alexandra Ramírez Zarate</p>
+            <p>Asesor Tecnológico: Álvaro Marcel Lozano Tarazona</p>
+            <br>
+                        
+            
+            <h3>PRODUCCIÓN AUDIOVISUAL</h3>
+            <h4>Ilustración</h4>
+            <p>Fredy Enrique Segura Quijano</p>
+            <p>José Daniel Lara Cardona </p>
+            <h4>Programación</h4>
+            <p>Nicolás Naranjo Mejía</p>
+            <p>Joan Sebastián Preciado Vanegas</p>
+            <p>Miguel Fernando Higuera Prieto</p>
+            <h4>Coordinación</h4>
+            <p>Diego Mauricio Bernal Duran</p>
+            <p>Mariela Rivero Carrillo</p>
+            <br>
+            <h3>Facultad de Ingeniería</h3>
+            <p>Departamento de Ingeniería Eléctrica y Electrónica</p>
+            <br>
+            <h3>Facultad de Educación</h3>
+            <p>Conecta-TE, Centro de Innovación en Tecnología y Educación</p>
+            <br>
+            <h3>Universidad de los Andes</h3>
+            <br>
+            <h3>Bogotá, Colombia</h3>
+            <p>Marzo, 2019</p>
+            
+    </div>
+
+
+    <!-- Instrucciones -->
+
+    <div id="Decoder_0" class="zoom-anim-dialog mfp-hide instruccion">
+        <h2>Decorder_0</h2>
+    </div>
+
+    <div id="RegGENERAL_0" class="zoom-anim-dialog mfp-hide instruccion">
+        <h2>RegGENERAL_0</h2>
+    </div>
+
+    <div id="RegGENERAL_1" class="zoom-anim-dialog mfp-hide instruccion">
+        <h2>RegGENERAL_1</h2>
+    </div>
+
+    <div id="RegGENERAL_2" class="zoom-anim-dialog mfp-hide instruccion">
+        <h2>RegGENERAL_2</h2>
+    </div>
+
+    <div id="RegGENERAL_3" class="zoom-anim-dialog mfp-hide instruccion">
+        <h2>RegGENERAL_3</h2>
+    </div>
+
+    <div id="RegFIXED_0" class="zoom-anim-dialog mfp-hide instruccion">
+        <h2>RegFIXED_0</h2>
+    </div>
+
+    <div id="RegFIXED_1" class="zoom-anim-dialog mfp-hide instruccion">
+        <h2>RegFIXED_2</h2>
+    </div>
+
+    <div id="MUXX_0" class="zoom-anim-dialog mfp-hide instruccion">
+        <h2>MUXX_0</h2>
+    </div>
+
+    <div id="MUXX_1" class="zoom-anim-dialog mfp-hide instruccion">
+        <h2>MUXX_1</h2>
+    </div>
+
+    <div id="ALU_0" class="zoom-anim-dialog mfp-hide instruccion">
+        <h2>ALU_0</h2>
+    </div>
+
+    <div id="RegSHIFTER_0" class="zoom-anim-dialog mfp-hide instruccion">
+        <h2>RegSHIFTER_0</h2>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-latest.js"></script>
+    <script type="text/javascript">
+        var jQuery1x = $.noConflict(true);
+    </script>
+    <script src="js/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.2/jquery.scrollTo.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+    <script type="text/javascript" src="js/jquery.overscroll.js"></script>
+    <script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+</body>
+
+</html>
