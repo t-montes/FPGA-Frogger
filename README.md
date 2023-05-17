@@ -16,6 +16,8 @@ Members:
 
 In the project [M06-Frogger](/ProjectDesign-M06-Frogger/Enunciado-DESIGNPROBLEM-2101-M06.pdf) a Frogger game was developed, in which the Verilog programming language was used, which is a hardware description language (HDL - Hardware Description Language), and the Xilinx ISE FPGA simulation software was used; Quartus Prime Lite Edition was used as IDE.
 
+A video of the game can be seen [here](https://www.youtube.com/watch?v=bemeV4KzBMI).
+
 ## M07-Fibonacci
 
 In the project [M07-Fibonacci](/ProjectDesign-M07-Fibonacci/Enunciado-DESIGNPROBLEM-2101-M07.pdf) a program was developed in Verilog (HDL) that has a state machine through which the Fibonacci series in binary is calculated.
@@ -44,6 +46,8 @@ Integrantes:
 - Tony Santiago Montes
 
 En el proyecto [M06-Frogger](/ProjectDesign-M06-Frogger/Enunciado-DESIGNPROBLEM-2101-M06.pdf) se desarrolló un juego de Frogger, en el cual se utilizó el lenguaje de programación Verilog, el cual es un lenguaje de descripción de hardware (HDL - Hardware Description Language), y se utilizó el software de simulación de FPGA Xilinx ISE; como IDE se utilizó Quartus Prime Lite Edition.
+
+Un video del juego funcionando se puede ver [aquí](https://www.youtube.com/watch?v=bemeV4KzBMI).
 
 ## M07-Fibonacci
 
